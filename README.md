@@ -7,7 +7,17 @@
 
 ​Traditional EDA flows treat design and verification as discrete steps. CSL-LLM unifies them into a continuous, generative evolutionary loop.
 
-​2. The Pillars of Physical Sovereignty
+## 🌌 Cross-Domain Vision: From Silicon to Aerospace
+
+The CSL-LLM paradigm is not limited to semiconductors. Its core philosophy—**Physical Sovereignty via Autonomous Self-Healing**—is directly transferable to extreme macro-engineering, such as **Orbital Rocket Recovery**.
+
+### 🚀 Case Study: Next-Gen Aerodynamic Deceleration
+Traditional rocket recovery relies on static flight software. A CSL-LLM enabled flight controller would:
+* **PAF (Physical-Aware Flight):** Pre-encode fluid dynamics and thermal ionization constants into the hardware logic.
+* **Kinetic Self-Healing:** If a grid fin is damaged by hypersonic heating, the **ChaKou Anchor** bypasses the failed actuator logic in nanoseconds, re-routing control to engine gimbals based on "Physical Heartbeat" rather than software commands.
+* **CTC Stabilization:** Utilizing Centripetal-Tuning-Cascade to maintain the rocket's center of mass (CoM) equilibrium during violent aerodynamic braking.
+
+​2.The Pillars of Physical Sovereignty
 ​This repository defines the core specification for the three layers of the CSL-LLM architecture:
 
 I. PAG (Physical-Aware Generation)
