@@ -1,3 +1,6 @@
+​// License: Proprietary. Unauthorized copying or use is strictly prohibited.
+// 许可：专有协议。未经授权严禁复制或使用。
+
 // Repository: CSL-LLM-Architecture
 // Component: ChaKou (叉口) Sovereign Physical Anchor
 // Version: 0.1-Alpha (2026-03-17)
