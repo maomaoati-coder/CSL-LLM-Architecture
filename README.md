@@ -1,3 +1,5 @@
+​// License: Proprietary. Unauthorized copying or use is strictly prohibited.
+// 许可：专有协议。未经授权严禁复制或使用。
 ​CSL-LLM: Chip Simulation-to-Tapeout Large Language Model
 
 ​"In the 3nm era, we are no longer designing circuits; we are encoding the DNA of resilient digital life."
