@@ -53,5 +53,8 @@ The CSL-LLM framework is powered by the CTC System, a proprietary methodology fo
 
 ​License
 ​Copyright (c) 2026 Guanghui Mao (毛广辉).
-Distributed under the Apache License 2.0. See LICENSE for more information.
+​// License: Proprietary. Unauthorized copying or use is strictly prohibited.
+// 许可：专有协议。未经授权严禁复制或使用。
+
+See LICENSE for more information.
 
